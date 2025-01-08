@@ -6,13 +6,13 @@
 <body>
 <header>
         <img src="logo.jpeg" alt="Logo pagina web" class="logo">
-<h1>SNEAKER STORE</h1>
+<h1>SERVICIO DE PAGINAS WWEB Y TIENDAS ONLINE</h1>
         <p>¡AVANZANDO EN HARDWARE INNOVANDO EN TECNOLOGIA!</p>
 </header>
 
 <main>
 <section class="introduction">
-<h2> Objetivo </h2>
+<h2> Lo que ofrecemos </h2>
             <p>Ofrecer Diseñamos tu presencia digital
 En Hardware Tecnollogy, transformamos ideas en experiencias digitales únicas. Nos especializamos en el diseño y desarrollo de páginas web y tiendas en línea adaptadas a tus necesidades. Ofrecemos soluciones modernas, funcionales y personalizadas para que tu negocio destaque en el mundo digital. ¡Impulsa tu marca con nosotros!
 
