@@ -5,7 +5,7 @@
 </head>
 <body>
 <header>
-        <img src="logo.jpeg" alt="Logo pagina web" class="logo">
+        <img src="logo.jpeg" alt="Logotipo de pagina" class="logo">
 <h1>SERVICIO DE PAGINAS WWEB Y TIENDAS ONLINE</h1>
         <p>¡AVANZANDO EN HARDWARE INNOVANDO EN TECNOLOGIA!</p>
 </header>
@@ -49,7 +49,7 @@ En Hardware Tecnollogy, transformamos ideas en experiencias digitales únicas. N
 <ul>
 <li>Rivera Duran Ricardo Miguel</li>
 <li>Franco Mora Anel</li>
-            <11>HERNANDEZ GUERRA ASLHEY JOSELIN 
+            <11>HERNANDEZ GUERRA ASLHEY JOSELIN </11>
 </ul>
 </footer>
 </body>
