@@ -45,12 +45,7 @@ En Hardware Tecnollogy, transformamos ideas en experiencias digitales únicas. N
 <p>Dirección: Calle 5 de febrero al lado del zocalo capitalino CDMX</p>
 <p>Teléfono: 5689071121</p>
         <p>URL:<a href="https://ricardomrd.github.io/Sitio-web-paginas/" target="_blank">HARDWARE TECNOLLOGY</a></p>
-<p>Integrantes:</p>
-<ul>
-<li>Rivera Duran Ricardo Miguel</li>
-<li>Franco Mora Anel</li>
-            <11>HERNANDEZ GUERRA ASLHEY JOSELIN </11>
-</ul>
+
 </footer>
 </body>
 </html>
